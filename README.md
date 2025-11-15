@@ -3,6 +3,7 @@
 <b>Assignment 5</b>: คำแนะนำในการทำ Assignment
 <p>
 <ol>
+  <li><a href="https://github.com/kasidit/runQemu/wiki/2025%E2%80%90001%E2%80%9000090-Create-a-VM-on-Openstack">รัน OpenStack VM</a></li>
   <li><a href="https://github.com/kasidit/runQemu/wiki/2025%E2%80%90001%E2%80%9000200-Install-QEMU%E2%80%90KVM">ติดตั้ง qemu</a></li>
   <li><a href="https://github.com/kasidit/runQemu/wiki/2025%E2%80%90001%E2%80%9000300-Create-an-image-with-qemu%E2%80%90img">สร้าง storage อิมเมจ</a></li>
   <li><a href="https://github.com/kasidit/runQemu/wiki/2025%E2%80%90001%E2%80%9000400-Install-Guest-OS">ติดตั้ง Guest OS</a></li>
